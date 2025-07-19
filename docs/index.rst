@@ -2,11 +2,11 @@ Step-by-Step: How to Apply for the $1,415 Extra Social Security Payment
 ========================================================================
 
 .. meta::
-   :msvalidate.01: BFF40CA8D143BAFDF58796E4E025829B
-   :google-site-verification: VD279M_GngGCAqPG6jAJ9MtlNRCU9GusRHzkw__wRkA
+   :msvalidate.01: 496FB76CB4BF986B84B3D95879586D39
+   :google-site-verification: A_NQsyCuasCJRK7IhYwTsyZ9qBh4bGquPfK0_6sAXkk
    :description: Learn how to apply for the $1,415 Extra Social Security Payment in 2025. Follow this step-by-step guide to check eligibility and receive your additional benefit.
 
-.. image:: Enter_Product_Key.png
+.. image:: applynow.png
    :width: 350px
    :align: center
    :height: 100px
